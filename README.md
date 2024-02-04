@@ -1,7 +1,7 @@
 # Smart Factory Manufacturing
 
 ## Description
-The Smart Factory Manufacturing is a console-based application designed to manage the manufacturing process of products in a smart factory setting. It utilizes a linked list of queues of stacks to represent the sequence of operations for each product. This allows for efficient processing of manufacturing steps and dynamic addition of new products.
+The Smart Factory Manufacturing is a console-based application that utilizes complex data structures designed to manage the manufacturing process of products in a smart factory setting. It utilizes a linked list of queues of stacks to represent the sequence of operations for each product. This allows for efficient processing of manufacturing steps and dynamic addition of new products.
 
 ## Features
 1. **Add a Product:** Enables users to add a new product to the manufacturing process by specifying the sequence of operations required.
